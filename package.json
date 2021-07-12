@@ -1,6 +1,6 @@
 {
   "name": "react-expand-collapse",
-  "version": "0.2.0",
+  "version": "0.2.0t",
   "description": "A simple and customizable expand-collapse react component for the web.",
   "main": "dist/ExpandCollapse.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/dutiyesh/react-expand-collapse#readme",
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0 || ^17.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0"
+    "react": "^15.3.0 || ^16.0.0 || ^17.0.2",
+    "react-dom": "^15.3.0 || ^16.0.0" || ^17.0.2",
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -53,8 +53,8 @@
     "jest": "^21.2.1",
     "prettier": "^1.9.2",
     "raf": "^3.4.0",
-    "react": "^16.0.0 || ^17.0.0",
-    "react-dom": "^16.0.0",
+    "react": "^16.0.0 || ^17.0.2",
+    "react-dom": "^16.0.0 || ^17.0.2",
     "react-test-renderer": "^16.0.0",
     "style-loader": "^0.19.0",
     "webpack": "^3.7.1",
